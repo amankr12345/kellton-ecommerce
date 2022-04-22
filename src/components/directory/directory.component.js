@@ -5,7 +5,7 @@ const Directory=({sections})=>{
         <>
             <div className="directory-menu">
                 {
-                    sections.map(menu=><MenuItem menu={menu}/>)
+                    sections.map(menu=><MenuItem key={menu.id} menu={menu}/>)
                 }
             </div>
         </>

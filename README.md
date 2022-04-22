@@ -1,4 +1,4 @@
-# KELLTON CLOTHING STORE
+# ONLINE CLOTHING STORE
 clothing website with deifferent categories
 -shop products
 -Add to cart
